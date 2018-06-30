@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "npm for js",
   "main": "account.js",
-  "scripts": {
-    "test": "mocha"
-  },
+  "scripts": { },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sakhmedoff/practice-projects.git"
