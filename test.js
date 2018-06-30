@@ -1,5 +1,5 @@
-const assert = require('assert');
-const accout = require('./account');
+let assert = require('assert');
+let accout = require('./account');
 
 let someUser = new accout.Account(1,"sada","S A",3400,true);
 let array = someUser.getAllInfo();
